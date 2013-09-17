@@ -1,0 +1,15 @@
+diff a/GitTest.cs b/GitTest.cs	(rejected hunks)
+@@ -2,8 +2,11 @@
+ 
+ namespace GitTest
+ {
+-  public calss Test
++  public class Test
+   {
+-    
++      public void display()
++      {
++          Console.WriteLine("Welcome to home page!");
++      }
+   }
+ }
