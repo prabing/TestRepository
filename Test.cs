@@ -10,7 +10,7 @@ namespace Test
 
     public void DisplayMethod()
     {
-        Console.WriteLine("Welcome to display method!");
+        Console.WriteLine("Welcome to display method!"); 
     }
   }
 }
