@@ -3,9 +3,9 @@ namespace Login
 {
   public class LoginClass
   {
-      public void LoginMethod()
-      {
-          Console.WriteLine("I am login Method");
-      }
+    public void SignInMethod()
+    {
+      Console.Writeline("I am SignIn Method!");
+    }
   }
 }
